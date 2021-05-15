@@ -10,11 +10,24 @@ namespace MDK0102_end
     {
         static void Main(string[] args)
         {
-            double a = Convert.ToDouble(Console.ReadLine());
-            double b = Convert.ToDouble(Console.ReadLine());
-            ModuleS(50.0, 50.0);
-            ModuleA(10, 10);
-            Console.ReadKey();
+            while (true)
+            {
+                try
+                {
+                    Console.Write("Введите число А: ");
+                    double a = Convert.ToDouble(Console.ReadLine());
+                    Console.Write("Введите число B: ");
+                    double b = Convert.ToDouble(Console.ReadLine());
+                    Console.Write("Первый ответ: ");
+                    ModuleS(a, b);
+                    Console.Write("Второй ответ: ");
+                    ModuleA(a, b);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("<ERROR> {0}", e);
+                }
+            }
         }
 
         static void ModuleS(double x, double y)

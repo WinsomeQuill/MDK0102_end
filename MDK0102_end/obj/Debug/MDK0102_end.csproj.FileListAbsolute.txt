@@ -1,0 +1,7 @@
+C:\Users\belyakov-aa\source\repos\MDK0102_end\MDK0102_end\bin\Debug\MDK0102_end.exe.config
+C:\Users\belyakov-aa\source\repos\MDK0102_end\MDK0102_end\bin\Debug\MDK0102_end.exe
+C:\Users\belyakov-aa\source\repos\MDK0102_end\MDK0102_end\bin\Debug\MDK0102_end.pdb
+C:\Users\belyakov-aa\source\repos\MDK0102_end\MDK0102_end\obj\Debug\MDK0102_end.csprojAssemblyReference.cache
+C:\Users\belyakov-aa\source\repos\MDK0102_end\MDK0102_end\obj\Debug\MDK0102_end.csproj.CoreCompileInputs.cache
+C:\Users\belyakov-aa\source\repos\MDK0102_end\MDK0102_end\obj\Debug\MDK0102_end.exe
+C:\Users\belyakov-aa\source\repos\MDK0102_end\MDK0102_end\obj\Debug\MDK0102_end.pdb

@@ -23,6 +23,10 @@ namespace MDK0102_end
                     Console.Write("Второй ответ: ");
                     ModuleA(a, b);
                 }
+                catch(FormatException)
+                {
+                    Console.WriteLine("<ERROR> Неверный формат числа!");
+                }
                 catch (Exception e)
                 {
                     Console.WriteLine("<ERROR> {0}", e);

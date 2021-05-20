@@ -13,7 +13,7 @@ Installation
 
 You can download the latest Addon Management by clicking [here](https://github.com/WinsomeQuill/MDK0102_end/releases/download/1.1/MDK0102_end.exe) or select version by clicking  [here](https://github.com/WinsomeQuill/MDK0102_end/releases).
 
-This is programm works with [VisualStudio2019](https://visualstudio.microsoft.com/ru/downloads/) or [VisualStudioCode](https://code.visualstudio.com/download/)
+This is programm works with [Visual Studio 2019](https://visualstudio.microsoft.com/ru/downloads/) or [Visual Studio Code](https://code.visualstudio.com/download/)
 
     git clone https://github.com/WinsomeQuill/MDK0102_end.git
     cd MDK0102_end-main

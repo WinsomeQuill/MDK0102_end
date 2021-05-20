@@ -1,0 +1,15 @@
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\bin\Debug\MDK0102_UI.exe.config
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\bin\Debug\MDK0102_UI.exe
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\bin\Debug\MDK0102_UI.pdb
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\obj\Debug\MDK0102_UI.csprojAssemblyReference.cache
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\obj\Debug\MainWindow.g.cs
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\obj\Debug\App.g.cs
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\obj\Debug\MDK0102_UI_MarkupCompile.cache
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\obj\Debug\MDK0102_UI_MarkupCompile.lref
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\obj\Debug\MainWindow.baml
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\obj\Debug\MDK0102_UI.g.resources
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\obj\Debug\MDK0102_UI.Properties.Resources.resources
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\obj\Debug\MDK0102_UI.csproj.GenerateResource.cache
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\obj\Debug\MDK0102_UI.csproj.CoreCompileInputs.cache
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\obj\Debug\MDK0102_UI.exe
+C:\Users\belyakov-aa\source\repos\MDK0102_UI\MDK0102_UI\obj\Debug\MDK0102_UI.pdb
